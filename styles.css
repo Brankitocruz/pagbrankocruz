@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: rgb(75, 74, 77);
 }
 
 div{
@@ -10,4 +10,22 @@ div{
     display: flex;
     flex: column;
     flex-wrap: wrap;
+}
+
+.imagen {
+    height: 40px;
+    width: 60px;
+    margin-left: 5px;
+}
+
+.titulo {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.imagen.boletin {
+    height: 400px;
+    width: 600px;
+    margin-left: 50px;
+
 }
